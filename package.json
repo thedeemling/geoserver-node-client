@@ -1,0 +1,16 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/express": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for geoserver-node-client",
+  "main": "",
+  "name": "@types/geoserver-node-client",
+  "repository": {
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.7",
+  "types": "geoserver-rest-client.d.ts",
+  "version": "1.2.2"
+}
