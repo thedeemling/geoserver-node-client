@@ -12,5 +12,5 @@
   "scripts": {},
   "typeScriptVersion": "3.7",
   "types": "geoserver-rest-client.d.ts",
-  "version": "1.2.2"
+  "version": "1.2.3"
 }

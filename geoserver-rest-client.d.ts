@@ -1,4 +1,3 @@
-export { GeoServerResponseError } from "./src/util/geoserver.js";
 /**
  * Client for GeoServer REST API.
  * Has minimal basic functionality and offers REST client instances for
